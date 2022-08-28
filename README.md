@@ -1,2 +1,2 @@
-# algorithms-go
-Created to study and practice Data Structures and Algorithms with Golang
+# playground
+Code by code. Simply to practice!
